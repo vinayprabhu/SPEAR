@@ -1,3 +1,4 @@
-# SPEAR: Segmentation of Peptides for Encrypted Antimicrobial Revelation
-
+# Project SPEAR: Segmentation of Peptides for Encrypted Antimicrobial Revelation <img src="data/logo.png" height="100">
 Goal: To train a model to automatically cleave peptides strategically to reveal antimicrobial peptides encrypted inside them (cryptomics mining for antimicrobial peptides).
+
+
